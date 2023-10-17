@@ -1,0 +1,28 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "workbench.sideBar.location": "right",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "One Dark Pro Mix",
+    "workbench.statusBar.visible": false,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.overviewRulerBorder": false,
+    "editor.formatOnSave": true,
+    "editor.guides.indentation": false,
+    "editor.formatOnPaste": true,
+    "editor.matchBrackets": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": false,
+        "source.organizeImports": true
+    },
+    "editor.linkedEditing": true,
+    "breadcrumbs.enabled": false,
+    "indenticator.width": 0.3,
+    "indenticator.color.dark": "rgba(255,255,255,0.2)",
+    "javascript.referencesCodeLens.enabled": true,
+    "javascript.referencesCodeLens.showOnAllFunctions": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.referencesCodeLens.enabled": true,
+    "typescript.referencesCodeLens.showOnAllFunctions": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "git.openRepositoryInParentFolders": "never"
+}
