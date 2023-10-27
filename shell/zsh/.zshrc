@@ -27,3 +27,7 @@ prompt ${DOTLY_THEME:-codely}
 source "$DOTLY_PATH/shell/zsh/bindings/dot.zsh"
 source "$DOTLY_PATH/shell/zsh/bindings/reverse_search.zsh"
 source "$DOTFILES_PATH/shell/zsh/key-bindings.zsh"
+
+# Java
+export JAVA_HOME=$HOME/Library/Java/jdk-21.0.1.jdk/Contents/Home
+export PATH=$JAVA_HOME/bin:$PATH

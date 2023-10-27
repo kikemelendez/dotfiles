@@ -28,3 +28,7 @@ alias i.='(idea $PWD &>/dev/null &)'
 alias c.='(code $PWD &>/dev/null &)'
 alias o.='open .'
 alias up='dot package update_all'
+
+#Apps
+alias springtool="open -n /Applications/SpringToolSuite4.app"
+alias intellij='open -n "/Applications/IntelliJ IDEA CE.app"'
