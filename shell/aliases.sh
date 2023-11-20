@@ -32,3 +32,4 @@ alias up='dot package update_all'
 #Apps
 alias springtool="open -n /Applications/SpringToolSuite4.app"
 alias intellij='open -n "/Applications/IntelliJ IDEA CE.app"'
+alias dockerup="open -n /Applications/Docker.app"
